@@ -4,9 +4,9 @@
 <html>
 <head>
 <meta charset="ISO-8859-1">
-<title>Insert title here</title>
+<title>Services.jsp</title>
 </head>
 <body>
-	<p>This is services.jsp file
+	<p>This is services.jsp file</p>
 </body>
 </html>
